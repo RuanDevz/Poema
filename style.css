@@ -60,6 +60,7 @@ main{
 }
 .sec1{
     margin: 45px;
+    padding: 80px;
 }
 .sec2{
     margin: 45px;
@@ -68,8 +69,11 @@ main{
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 45px;
+    padding: 50px;
+    background-attachment: fixed;
 }
 .sec3{
+    padding: 80px;
     margin: 45px;
 }
 .sec4{
@@ -77,9 +81,10 @@ main{
     background-image: url("imagem/Coracao.jpg");
     background-position: center;
     background-size: 100%;
+    background-attachment: fixed;
     background-repeat: no-repeat;
-    back
     margin: 45px;
+    padding: 80px;
 }
 
 
